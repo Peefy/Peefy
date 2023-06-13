@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Peefy
 
-- 🔭 I’m currently working on AntGroup and focus on the [KCLVM](https://github.com/KusionStack/KCLVM) project in the [KusionStack](https://github.com/KusionStack) org, and its website is here: https://kcl-lang.io/. KCL is an open source constraint-based record and functional language. KCL improves the writing of a large number of complex configurations through mature programming language technology and practice, and is committed to building better modularity, scalability and stability around configuration, simpler logic writing, fast automation and good ecological extensionality.
+- 🔭 I’m currently working on AntGroup and focus on the [KCL language](https://github.com/KusionStack/kcl) project in the [KusionStack](https://github.com/KusionStack) org, and its website is here: https://kcl-lang.io/. KCL is an open source constraint-based record and functional language. KCL improves the writing of a large number of complex configurations through mature programming language technology and practice, and is committed to building better modularity, scalability and stability around configuration, simpler logic writing, fast automation and good ecological extensionality.
 - 🌱 I’m currently learning programming language, Kubernetes, DevOps, and web3.
 - 👯 I’m looking to collaborate on the programming language and kubernetes.
 - 📫 How to reach me: xpf6677@gmail.com
