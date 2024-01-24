@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Peefy
 
-- 🔭 I’m currently working on AntGroup and focus on the [KCL language](https://github.com/kcl-lang/kcl), [Pluto language](https://github.com/pluto-lang/pluto) and [KusionStack](https://github.com/KusionStack) org.
+- 🔭 I’m currently working on AntGroup and focus on the [KCL language](https://github.com/kcl-lang/kcl), [Pluto language](https://github.com/pluto-lang/pluto), [Smart IR](https://github.com/AntChainOpenLabs/Smart-Intermediate-Representation) and [KusionStack](https://github.com/KusionStack) org.
 - 🌱 I’m currently learning programming language, Kubernetes, DevOps, and web3.
 - 👯 I’m looking to collaborate on the programming language and kubernetes.
 - 📫 How to reach me: xpf6677@gmail.com
